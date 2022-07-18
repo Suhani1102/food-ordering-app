@@ -1,2 +1,2 @@
-# food-ordering-app
+# Food Ordering App
 Built in reactjs
