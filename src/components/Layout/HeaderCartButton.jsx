@@ -18,6 +18,14 @@ const HeaderCartButton = (props) => {
       return;
     }
     setBtnAnimation(true);
+
+    const timer = setTimeout(() => {
+      setBtnAnimation(false);
+    }, 300);
+
+    return () => {
+      clearTimeout(timer);
+    };
   }, [items]);
 
   return (
