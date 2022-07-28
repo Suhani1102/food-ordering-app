@@ -1,6 +1,8 @@
 # Food Ordering App
 Built in reactjs
 
+<img src="./public/homepage.png" alt="Homepage"/>
+
 <h1>[Getting Started]</h1>
     <h3>Execution</h3>
     <p>If you want to run our project in your local machine</p>
