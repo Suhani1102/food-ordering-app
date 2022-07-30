@@ -1,5 +1,6 @@
 # Food Ordering App
-Built in reactjs
+This app allows you to select food items from menu, add them to cart and update the quantity of each item as per requirement.
+There's the homepage for app.
 
 <img src="./public/homepage.png" alt="Homepage"/>
 
